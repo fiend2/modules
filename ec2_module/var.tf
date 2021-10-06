@@ -3,7 +3,7 @@ variable "ami" {
 }
 
 variable "instance_type" {
-    instance_type = "t2.micro"
+    instance_type = "t2.medium"
 }
 
 variable "name" {
